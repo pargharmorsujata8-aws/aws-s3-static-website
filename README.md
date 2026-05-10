@@ -1,15 +1,13 @@
 # AWS S3 Static Website Hosting
 
 ## 📌 Project Overview
-This project demonstrates how to host a static website using **Amazon S3**.
-It was completed as a **self-learning hands-on project** to understand AWS storage
-and website hosting concepts.
+This project demonstrates how to host a static website using Amazon S3. It was created as a hands-on AWS cloud project to understand static website hosting, bucket permissions, and public access configuration.
 
 ---
 
 ## 🛠️ AWS Services Used
 - Amazon S3
-- IAM (for access permissions)
+- IAM
 
 ---
 
@@ -24,16 +22,22 @@ and website hosting concepts.
 
 ## 🎯 Key Learnings
 - Understanding S3 bucket permissions
-- Public access configuration
+- Managing public access settings
 - Hosting static content on AWS
 - Basic AWS security best practices
 
 ---
 
-## 📷 Screenshots
-Screenshots will be added after deployment.
+## 🌐 Live Website
+(http://swati-static-website-2026.s3-website.ap-south-1.amazonaws.com/)
+
+---
+
+## 📷 Project Screenshot
+<img width="1242" height="664" alt="Screenshot 2026-05-10 192008" src="https://github.com/user-attachments/assets/0cfc116e-5f4a-42f1-bb6e-bbb05636b978" />
+
 
 ---
 
 ## 📝 Note
-This project was created for **learning purposes** and hands-on AWS practice.
+This project was built for learning and hands-on AWS practice.
