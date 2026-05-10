@@ -29,7 +29,8 @@ This project demonstrates how to host a static website using Amazon S3. It was c
 ---
 
 ## 🌐 Live Website
-(http://swati-static-website-2026.s3-website.ap-south-1.amazonaws.com/)
+The website was successfully deployed on Amazon S3 during project execution.  
+The deployment resources were later removed to avoid unnecessary AWS charges.
 
 ---
 
